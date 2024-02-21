@@ -1,0 +1,6 @@
+﻿  Лабораторна робота №6.cpp
+C:\Users\anzhelika_moroz\Desktop\project Visual Studio\Лабораторна робота №6\Лабораторна робота №6\Лабораторна робота №6.cpp(124,10): warning C4805: ==: небезопасное смешение типа "double" и типа "bool" в операции
+C:\Users\anzhelika_moroz\Desktop\project Visual Studio\Лабораторна робота №6\Лабораторна робота №6\Лабораторна робота №6.cpp(124,39): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\anzhelika_moroz\Desktop\project Visual Studio\Лабораторна робота №6\Лабораторна робота №6\Лабораторна робота №6.cpp(125,8): warning C4805: ==: небезопасное смешение типа "double" и типа "bool" в операции
+C:\Users\anzhelika_moroz\Desktop\project Visual Studio\Лабораторна робота №6\Лабораторна робота №6\Лабораторна робота №6.cpp(125,37): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Лабораторна робота №6.vcxproj -> C:\Users\anzhelika_moroz\Desktop\project Visual Studio\Лабораторна робота №6\x64\Debug\Лабораторна робота №6.exe
